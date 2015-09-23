@@ -1,0 +1,17 @@
+<resources>
+    <!-- Main -->
+    <string name="app_name">LibSwitcher</string>
+    <string name="pref_common">Common</string>
+    <!-- Alert dialog -->
+    <string name="negative_button">Cancel</string>
+    <string name="positive_button">OK</string>
+    <string name="reboot_title">Reboot required</string>
+    <string name="reboot_title_sum">A reboot is required to apply changes.\nDo you wish to reboot now?</string>
+    <!-- IR LED preferences -->
+    <string name="pref_ir">Previous IR driver</string>
+    <string name="pref_ir_sum">Enable this option if you are encountering issues with apps which require the IR LED, typically outdated ones. Once enabled check that the option \"Use alternate commands\" is disabled in IR apps</string>
+    <string name="pref_ir_sum_on">Disable this option if you are encountering issues with apps which require the IR LED, typically most recent ones. Once enabled check that the option \"Use alternate commands\" is disabled in IR apps</string>
+    <!-- Issue report -->
+    <string name="issue_report">Issue report</string>
+    <string name="issue_report_url">https://github.com/JDCTeam/LibSwitcher/issues/new</string>
+</resources>
