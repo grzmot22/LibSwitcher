@@ -11,7 +11,7 @@
     <!-- Preferenze LED IR -->
     <string name="pref_ir">Driver IR precedente</string>
     <string name="pref_ir_sum">Abilita quest\'opzione se stai riscontrando problemi con le app che richiedono il LED infrarosso, tipicamente quelle non aggiornate. Dopo l\'abilitazione controlla che nelle app sia disabilitata l\'opzione \"Usa comandi alternativi\"</string>
-    <string name="pref_ir_sum_on">Abilita quest\'opzione se stai riscontrando problemi con le app che richiedono il LED infrarosso, tipicamente quelle più recenti. Dopo l\'abilitazione controlla che nelle app sia disabilitata l\'opzione \"Usa comandi alternativi\"</string>
+    <string name="pref_ir_sum_on">Disabilita quest\'opzione se stai riscontrando problemi con le app che richiedono il LED infrarosso, tipicamente quelle più recenti. Dopo l\'abilitazione controlla che nelle app sia disabilitata l\'opzione \"Usa comandi alternativi\"</string>
     <!-- Segnalazione problemi -->
     <string name="issue_report">Segnala un problema</string>
 </resources>
