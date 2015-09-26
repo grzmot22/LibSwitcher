@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".Options">
+    <item android:id="@+id/issue_report" android:title="@string/issue_report"
+        android:orderInCategory="100" />
+</menu>
