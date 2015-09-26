@@ -1,17 +1,17 @@
 <resources>
-    <!-- Main -->
-    <string name="app_name">LibSwitcher</string>
-    <string name="pref_common">Common</string>
-    <!-- Alert dialog -->
-    <string name="negative_button">Cancel</string>
-    <string name="positive_button">OK</string>
-    <string name="reboot_title">Reboot required</string>
-    <string name="reboot_title_sum">A reboot is required to apply changes.\nDo you wish to reboot now?</string>
-    <!-- IR LED preferences -->
-    <string name="pref_ir">Previous IR driver</string>
-    <string name="pref_ir_sum">Enable this option if you are encountering issues with apps which require the IR LED, typically outdated ones. Once enabled check that the option \"Use alternate commands\" is disabled in IR apps</string>
-    <string name="pref_ir_sum_on">Disable this option if you are encountering issues with apps which require the IR LED, typically most recent ones. Once enabled check that the option \"Use alternate commands\" is disabled in IR apps</string>
-    <!-- Issue report -->
-    <string name="issue_report">Issue report</string>
-    <string name="issue_report_url">https://github.com/JDCTeam/LibSwitcher/issues/new</string>
+   <!-- Main -->
+   <string name="app_name">LibSwitcher</string>
+   <string name="pref_common">Común</string>
+   <!-- Alert dialog -->
+   <string name="negative_button">Cancelar</string>
+   <string name="positive_button">OK</string>
+   <string name="reboot_title">Reinicio requerido</string>
+   <string name="reboot_title_sum">Es necesario reiniciar para aplicar los cambios. \nDesea reiniciar ahora?</string>
+   <!-- IR LED preferences -->
+   <string name="pref_ir">Controlador IR Anterior</string>
+   <string name="pref_ir_sum">Active esta opción si usted está encontrando problemas con aplicaciones que requieren el LED IR, por lo general los obsoletos. Una vez habilitado compruebe que la opción \"Usar comandos alternativos\" está desactivada en aplicaciones IR</string>
+   <string name="pref_ir_sum_on">Desactive esta opción si usted está encontrando problemas con aplicaciones que requieren el LED IR, por lo general los más recientes. Una vez habilitado compruebe que la opción \"Usar comandos alternativos\" está desactivada en aplicaciones IR</string>
+   <!-- Issue report -->
+   <string name="issue_report">Informe del problema</string>
+   <string name="issue_report_url">https://github.com/JDCTeam/LibSwitcher/issues/new</string>
 </resources>
