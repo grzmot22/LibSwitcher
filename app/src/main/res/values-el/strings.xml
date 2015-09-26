@@ -1,0 +1,17 @@
+<resources> 
+   <!-- Main --> 
+   <string name="app_name">LibSwitcher</string> 
+   <string name="pref_common">Common</string> 
+   <!-- Alert dialog --> 
+   <string name="negative_button">Άκυρο</string> 
+   <string name="positive_button">OK</string> 
+   <string name="reboot_title">Απαιτείται επανεκκίνηση</string> 
+   <string name="reboot_title_sum">Απαιτείται επανεκκίνηση για την εφαρμογή των αλλαγών.\nΘέλετε να κάνετε τώρα επανεκκίνηση;</string> 
+   <!-- IR LED preferences --> 
+   <string name="pref_ir">Προηγούμενος IR οδηγός</string> 
+   <string name="pref_ir_sum">ενεργοποίησε την επιλογή αυτή αν αντιμετωπίζεις πρόβλημα με εφαρμογές που απαιτούν ,IR led.κυρίως για παλιές εφαρμογές.όταν ενεργοποιηθεί πατήστε την επιλογή αυτη \"χρησιμοποίησε εναλλακτικές εντολές\" είναι απενεργοποιημένο σε εφαρμογές με IR</string> 
+   <string name="pref_ir_sum_on"> Απενεργοποίησε την επιλογή αυτή αν αντιμετωπίζεις πρόβλημα με εφαρμογές που απαιτούν ,IR led.κυρίως για τις πιο πρόσφατες εφαρμογές.όταν απενεργοποιηθεί πατήστε την επιλογή αυτη \"χρησιμοποίησε εναλλακτικές εντολές\" είναι ενεργοποιημένο σε εφαρμογές με IR</string> 
+   <!-- Issue report --> 
+   <string name="issue_report">Αναφορά προβλήματος</string> 
+   <string name="issue_report_url">https://github.com/JDCTeam/LibSwitcher/issues/new</string> 
+</resources>
